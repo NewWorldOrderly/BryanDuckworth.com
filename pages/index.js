@@ -4,7 +4,7 @@ import styles from '../styles/Home.module.css'
 
 export default function Home() {
   return (
-    <div className={styles.container}>
+    <div className="padding-none bg-cover bg-animal-collective bg-no-repeat bg-fixed">
       <Head>
         <title>Bryan Duckworth - Perception is an illusion.</title>
         <meta name="description" content="Versatile problem solver with over 15 years of web development experience." />
