@@ -54,7 +54,7 @@ export default function Home() {
             href="https://github.com/NewWorldOrderly"
             className="m-4 max-w-sm border bg-surface p-6 text-left hover:border-onSurface-alt hover:text-onSurface"
           >
-            <h2>Github Account &rarr;</h2>
+            <h2 className="text-xl font-bold">Github Account &rarr;</h2>
             <p>
               Various personal and professional projects I&#39;ve contributed
               to.
@@ -65,7 +65,7 @@ export default function Home() {
             href="https://ballersanonymo.us"
             className="m-4 max-w-sm border bg-surface p-6 text-left hover:border-onSurface-alt hover:text-onSurface"
           >
-            <h2>ballersanonymo.us &rarr;</h2>
+            <h2 className="text-xl font-bold">ballersanonymo.us &rarr;</h2>
             <p>A company focused on full service web development</p>
           </a>
         </div>
