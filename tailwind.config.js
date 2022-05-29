@@ -12,6 +12,7 @@ module.exports = {
       },
       backgroundImage: {
         'animal-collective': 'url("../public/animal-collective.jpeg")',
+        'lines-dots': 'url("../public/lines-dots.jpg")',
       }
     },
   },
