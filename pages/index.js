@@ -29,7 +29,7 @@ export default function Home() {
         <div className={styles.grid}>
           <a href="https://github.com/NewWorldOrderly" className={styles.card}>
             <h2>Github Account &rarr;</h2>
-            <p>Various personal and professional projects I have worked on.</p>
+            <p>Various personal and professional projects I&#39;ve contributed to.</p>
           </a>
 
           <a href="https://ballersanonymo.us" className={styles.card}>
